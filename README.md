@@ -1,4 +1,4 @@
-# DDS-miniproject-T8 - Automatic Visitor Counter and Power control
+# Automatic Visitor Counter and Power Control
 
 ## Team Members 
 <details>
