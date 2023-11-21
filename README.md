@@ -30,8 +30,10 @@
 <details>
   
   ### FLowchart :
-  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/30cff0ae-33ea-42be-ba07-bf27485155bf)
 
+  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/1fcff29f-6391-4b34-8baa-0ee11e68731a)
+
+    
   ### Functional Table
   
   * here people try to enter from time 0 to 210
@@ -89,9 +91,12 @@
 ## Logisim Circuit Diagram :
 
 <details>
+  
 
-  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/e9c70417-18e0-4774-b6be-291f509159cc)
-  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/c96b9849-3519-4428-8f2e-044cedaa7810)
+  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/000f5043-af38-43d6-b478-6818731d02ea)
+  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/bdb0ae1e-accc-4dfb-a5e5-a5a01e92642a)
+  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/b31c9fed-d5f5-42bd-bd18-d201bc0055ac)
+
 
 </details>
 
