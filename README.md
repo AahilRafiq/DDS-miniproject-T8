@@ -264,7 +264,9 @@ endmodule
 
 ### Output : 
   
-  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/45a53663-65d2-4c12-ad7a-3ea4e81f3aa4)
+
+  ![image](https://github.com/AahilRafiq/DDS-miniproject-T8/assets/128609469/bfbb64ea-c632-4714-a77a-a9853d80437c)
+
 </details>
 
 
